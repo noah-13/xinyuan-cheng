@@ -3,7 +3,7 @@
 
 **Master’s Student in Computational Linguistics**  
 LMU Munich, Germany  
-[GitHub](https://github.com/noah-13) · [Email](mailto:your.email@example.com)
+[GitHub](https://github.com/noah-13) · [Email](Xinyuan.Cheng@campus.lmu.de)
 
 ---
 
@@ -36,7 +36,7 @@ Thesis: *Linguistic Ambiguity in German and its Interpretation by LLMs*
 
 - **SWiPe Dataset Reanalysis**  
   Studied document-level simplification metrics (SARI, LENS-SALSA, QuestEval); compared original and reversed edits.  
-  [GitHub Repo](https://github.com/noah-13/swipe-analysis)
+  [GitHub Repo](https://github.com/noah-13/re-evaluate-swipe))
 
 ---
 
