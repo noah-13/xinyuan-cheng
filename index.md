@@ -38,9 +38,6 @@ Thesis: *Linguistic Ambiguity in German and its Interpretation by LLMs*
   Studied document-level simplification metrics (SARI, LENS-SALSA, QuestEval); compared original and reversed edits.  
   [GitHub Repo](https://github.com/noah-13/swipe-analysis)
 
-- **Conversational Implicature in LLMs**  
-  Co-authored paper on LLMs’ ability to detect pragmatic inferences. Presented at [Your Conference Name].
-
 ---
 
 ## 🛠️ Tools & Skills
