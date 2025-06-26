@@ -1,3 +1,4 @@
+![avatar](avatar.jpg)
 # Xinyuan Cheng 程心远
 
 **Master’s Student in Computational Linguistics**  
