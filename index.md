@@ -3,7 +3,7 @@
 
 **Master’s Student in Computational Linguistics**  
 LMU Munich, Germany  
-[GitHub](https://github.com/noah-13) · [Email](Xinyuan.Cheng@campus.lmu.de) [Linkeln](www.linkedin.com/in/xinyuan13)
+[GitHub](https://github.com/noah-13) · [Email](Xinyuan.Cheng@campus.lmu.de) · [Linkeln](www.linkedin.com/in/xinyuan13)
 
 ---
 
